@@ -1,5 +1,17 @@
-div {
-  border-style: solid;
-  border: 12px;
-  border-radius: 8px;
+.minty {
+display="block";
+background-color:#3EB489;
 }
+.alsominty {
+display="block";
+background-color:#3EB489;
+}
+.veryminty {
+display="block";
+background-color:#3EB489;
+}
+.buytheminty {
+display="block";
+background-color:#3EB489;
+}
+
