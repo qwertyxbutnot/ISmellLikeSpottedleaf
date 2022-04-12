@@ -1,5 +1,10 @@
  @import url('https://fonts.googleapis.com/css2?family=Fauna+One&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body {
+ Background-color: #E6E6FA;
+  text-align: center;
+ content: justify;
+
 div.minty {
 display: block;
 background-color: #3EB489;
