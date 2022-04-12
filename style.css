@@ -1,6 +1,6 @@
  @import url('https://fonts.googleapis.com/css2?family=Fauna+One&display=swap');
   @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
-.minty {
+div.minty {
 display: block;
 background-color: #3EB489;
 }
