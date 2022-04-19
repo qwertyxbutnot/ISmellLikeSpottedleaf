@@ -5,9 +5,15 @@ body {
   text-align: center;
  content: justify;
 
+ h1 {
+  font-family: 'Fauna One', serif;
+ }
 div.minty {
-display: block;
 background-color: #3EB489;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin: 0 auto;
 }
 
 
